@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApiApp</string>
+    <string name="search">Search</string>
+    <string name="results_could_not_be_loaded">Results couldn\'t be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="description">Description</string>
+    <string name="click_to_view_full_article">Click to view full article</string>
+    <string name="Google">Google</string>
+    <string name="Author">Author</string>
+    <string name="Title">Title</string>
+</resources>
